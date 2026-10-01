@@ -6,13 +6,20 @@
   },
   "enabledPlugins": {
     "datadog@claude-plugins-official": true,
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "yomiyasu@yomiyasu": true
   },
   "extraKnownMarketplaces": {
     "ponytail": {
       "source": {
         "source": "github",
         "repo": "DietrichGebert/ponytail"
+      }
+    },
+    "yomiyasu": {
+      "source": {
+        "source": "github",
+        "repo": "nanaism/yomiyasu"
       }
     }
   },
